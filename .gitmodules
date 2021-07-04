@@ -1,0 +1,6 @@
+[submodule "AstralBackend"]
+	path = AstralBackend
+	url = https://github.com/CorbenTerminator/AstralBackend.git
+[submodule "AstralFrontend"]
+	path = AstralFrontend
+	url = https://github.com/CorbenTerminator/AstralFrontend.git
