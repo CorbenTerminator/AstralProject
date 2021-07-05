@@ -3,7 +3,7 @@
 git clone https://github.com/CorbenTerminator/AstralProject.git
 ```
 Данный репозиторий является git submodule, 
-поэтому после скачивания проекта необходимо ввести следующие команды:
+поэтому после скачивания проекта необходимо перейти в директорию и ввести следующие команды:
 ```
     git submodule init
     git submodule update
