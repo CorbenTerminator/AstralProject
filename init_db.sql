@@ -76,7 +76,11 @@ insert into users(user_id, login, password) values
 insert into categories(category_id, name) values 
 (1, 'Электроника'),
 (2, 'Бытовая химия'),
-(3, 'Бакалея');
+(3, 'Бакалея'),
+(4, 'Пищевые продукты'),
+(5, 'Хозтовары'),
+(6, 'Гигиена'),
+(7, 'Кухонные принадлежности');
 
 
 insert into products(product_id, name, price, category_id) values
