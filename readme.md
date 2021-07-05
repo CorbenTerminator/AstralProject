@@ -14,3 +14,4 @@ git clone https://github.com/CorbenTerminator/AstralProject.git
     docker-compose up
 ```
 После запуска всех контейнеров можно перейти по адресу http://localhost/login
+Для входа в систему можно использовать логин и пароль: user user, admin admin 
